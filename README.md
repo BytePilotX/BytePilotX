@@ -1,4 +1,4 @@
-## Hello! Welcome to my profile ✈️,
+## Hello! Welcome to my profile ✈️
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWo4YWc4NGU3ZGc1YWRiZGUycWRzbDd3dXc1MjVrd3VkbzNrejNsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9DiewJzdNifQ9wPbiQ/giphy.gif" width="800" height="400"/>
 This is where I upload almost if not all of my work. I like to program as a hobby in my free time so don't expect much from me. I picked up programming around 2020-2021 as during COVID and lockdown in the UK I wanted to explore my interest in computer science a little bit more and came across Python! The-Archive is my first ever python project, although its kind of rendered useless because notepad's exist. It was a fun project to work on. Since I have summer break I will be actively developing one of my projects.
 
